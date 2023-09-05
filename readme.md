@@ -24,3 +24,17 @@ El desarrollo de este reto (El reporte) esta en el Jupyter Notebook llamado reto
 
 Los datos que se usaron para este modelo provienen del siguiente link:
 https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue
+
+## Módulo 2 Análisis y Reporte sobre el desempeño del modelo. 
+
+Todo lo relacionado a esta entrega puede encontrarse en la carpeta de ./Reto3
+
+El modelo a evaluar en este dataser esta basado en regresión lineal, la cual busca medir una relacion entre variables.
+Aqui ademas se aplicara un metodo de regularización la cual es la la regresión de cresta
+
+En este caso contaremos con el apoyo de frameworks en python para poder hacer dicha solucion
+
+El desarrollo de este reto (El reporte) esta en el Jupyter Notebook llamado reto2
+
+Los datos que se usaron para este modelo provienen del siguiente link:
+https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue
