@@ -6,7 +6,7 @@
 
 Gracias a la retroalimentación de los profesores a lo largo de esta materia, se ha podido añadir o corregir detalles, haciendo que los entregables aumenten en calidad y, por lo tanto, puedan cumplir de mejor manera con las competencias pedidas a lo largo de esta materia.
 
-## Evidencia 1 Análisis y Reporte sobre el desempeño del modelo.
+## Evidencia 1: Análisis y Reporte sobre el desempeño del modelo. (Portafolio de análisis)
 
 En esta primera evidencia se busca observar el sesgo de un cierto tipo de dataset, observar su varianza, así como el desempeño de diversas métricas y la comparación de dos modelos: regresión lineal y regresión bridge. Se compara con gráficos y con métricas qué tan bien se desempeñan, así como una comparación dentro de los mismos.
 
