@@ -8,7 +8,7 @@ Gracias a la retroalimentación de los profesores a lo largo de esta materia, se
 
 ## Evidencia 1: Análisis y Reporte sobre el desempeño del modelo. (Portafolio de análisis)
 
-En esta primera evidencia se busca observar el sesgo de un cierto tipo de dataset, observar su varianza, así como el desempeño de diversas métricas y la comparación de dos modelos: regresión lineal y regresión bridge. Se compara con gráficos y con métricas qué tan bien se desempeñan, así como una comparación dentro de los mismos.
+En esta primera evidencia se busca observar el sesgo de un cierto tipo de dataset, observar su varianza, así como el desempeño de diversas métricas y la comparación de dos modelos: regresión lineal y regresión ridge. Se compara con gráficos y con métricas qué tan bien se desempeñan, así como una comparación dentro de los mismos.
 
 Todo lo relacionado a esta evidencia puede encontrarse en la carpeta ./Final/Evidencia1.
 
@@ -89,7 +89,7 @@ Aqui ademas se aplicara un metodo de regularización la cual es la la regresión
 
 En este caso contaremos con el apoyo de frameworks en python para poder hacer dicha solucion
 
-El desarrollo de este reto (El reporte) esta en el Jupyter Notebook llamado reto2
+El desarrollo de este reto (El reporte) esta en el Jupyter Notebook llamado reto3
 
 Los datos que se usaron para este modelo provienen del siguiente link:
 https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue
