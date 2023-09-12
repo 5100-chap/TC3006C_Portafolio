@@ -10,21 +10,21 @@ Gracias a la retroalimentación de los profesores a lo largo de esta materia, se
 
 ## Modulo 1: Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos
 
-En este notebook se intentara resolver el siguiente problema:
+En esta parte del portafolio, se intentará resolver el siguiente problema:
 Una empresa automovilística china aspira a entrar en el mercado estadounidense. Desea establecer allí una unidad de fabricación y producir automóviles localmente para competir con sus contrapartes estadounidenses y europeas. Contrataron una empresa de consultoría de automóviles para identificar los principales factores de los que depende el precio de los automóviles, específicamente, en el mercado estadounidense, ya que pueden ser muy diferentes del mercado chino. Esencialmente, la empresa quiere saber:
 
 * ¿Qué variables son significativas para predecir el precio de un automóvil?
 * ¿Qué tan bien describen esas variables el precio de un automóvil?
+  
+El problema nos entrega un archivo CSV llamado "precios_autos" en el cual se nos muestra distintas variables que posiblemente estén relacionadas con el precio. Debemos seleccionar 6 para contestar la primera pregunta. La segunda pregunta se contestará de mejor manera en el portafolio de implementación, que es la continuación de este análisis.
 
-El problema nos entrega un archivo csv llamado precios_autos en el cual se nos hace observar distintas variables que posiblemente esten relacionadas con el precio, debemos de seleccionar 6 para contestar la siguiente pregunta, la segunda pregunta se contestara de mejor manera en el portafolio de implementación que es la continuación de este analisis
+Además, se nos proporciona un diccionario para poder comprender mejor a qué se refieren las variables dentro del problema.
 
-Ademas se nos dota de un diccionario para poder comprender mejor a que se refiere las variables dentro de lo que seria el problema
+Aquí hacemos una breve descripción de los datos, así como usamos gráficas para poder observar el comportamiento de los mismos. A través del tratamiento de los datos y observando las correlaciones, intentamos averiguar cuál tiene una mayor relación con el precio.
 
-Aqui hacemos una breve descripcion de los datos, asi como usamos graficas para poder observar el comportamiento de los datos y a traves del tratamiento de los datos, yde observar las coorelaciones intentamos averiguar cual tiene una mayor relacion con el precio
+El reporte con mayor detalle para esta primera parte se llama "portafolioModulo1_parte1".
 
-El reporte con mayor detalle para esta primera parte se llama portafolioModulo1_parte1
-
-Todo lo relacionado a este analisís se encuentra bajo la carpeta de ./Final/Evidencia1_Modulo1
+Todo lo relacionado a este análisis se encuentra bajo la carpeta ./Final/Evidencia1_Modulo1.
 ## Modulo 2: Análisis y Reporte sobre el desempeño del modelo. (Y Análisis del contexto y la normatividad.)
 
 En esta primera evidencia se busca observar el sesgo de un cierto tipo de dataset, observar su varianza, así como el desempeño de diversas métricas y la comparación de dos modelos: regresión lineal y regresión ridge. Se compara con gráficos y con métricas qué tan bien se desempeñan, así como una comparación dentro de los mismos.
@@ -41,23 +41,21 @@ Los datos que se usaron para este modelo provienen del siguiente enlace:
 https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue
 El dataset es un CSV que consiste, a grandes rasgos, en la relación de la ganancia que tiene una tienda de helados respecto a la temperatura ambiente que hay alrededor de ella.
 
-Cabe resaltar que en esta primer parte se hizo un breve analisius de contexto para el modulo 2, el cual tiene un reporte en pdf en la misma carpeta mencionada anteriormente
+Cabe resaltar que en esta primera parte se hizo un breve análisis de contexto para el módulo 2, el cual tiene un reporte en PDF en la misma carpeta mencionada anteriormente.
 ## Evidencia 2: Portafolio de implementación
 
 ## Modulo 1: Construcción de un modelo estadístico base
 
-En base a lo que se tenia previamente y recordando las preguntas base anteriores las cuales eran:
+Basándonos en lo que se tenía previamente en la evidencia 1 y recordando las preguntas base anteriores, las cuales eran:
 
 * ¿Qué variables son significativas para predecir el precio de un automóvil?
 * ¿Qué tan bien describen esas variables el precio de un automóvil?
 
-Aqui se continua visualizando los datos atipicos y en base a lo que se observa en el reporte hacer una normalización de los mismo en el cual una vez hecho ello se decidio modelar usando regresión lineal multiple, para poder ver que tan bien las variables seleccionadas pueden predecir el precio del automovil y contestar la segunda pregunta de mejor forma
+Aquí se continúa visualizando los datos atípicos y, en base a lo que se observa en el reporte, se realiza una normalización de los mismos. Una vez hecho ello, se decidió modelar usando regresión lineal múltiple para poder ver qué tan bien las variables seleccionadas pueden predecir el precio del automóvil y contestar la segunda pregunta de mejor forma.
 
-El problema nos entrega un archivo csv llamado precios_autos en el cual se nos hace observar distintas variables que posiblemente esten relacionadas con el precio, debemos de seleccionar 6 para contestar la siguiente pregunta, la segunda pregunta se contestara de mejor manera en el portafolio de implementación que es la continuación de este analisis
+El reporte con mayor detalle para esta parte se llama "portafolioModulo1_parte2".
 
-El reporte con mayor detalle para esta primera parte se llama portafolioModulo1_parte2
-
-Todo lo relacionado a este analisís se encuentra bajo la carpeta de ./Final/Evidencia2_Modulo1
+Todo lo relacionado a este análisis se encuentra bajo la carpeta ./Final/Evidencia2_Modulo1.
 
 ## Modulo 2
 
